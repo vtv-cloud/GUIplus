@@ -7,5 +7,3 @@ A Terraria mod that adds smooth, liquid-glass style UI animations.
 - Supports multiple mods
 
 ## Preview
-![Open Inventory](normalopen.gif)
-![Open Chest](chestopen.gif)
